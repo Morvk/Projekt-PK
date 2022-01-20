@@ -1,0 +1,10 @@
+﻿  FileHandling.cpp
+  IUser.cpp
+  Network.cpp
+  main.cpp
+  Trwa generowanie kodu
+  72 of 355 functions (20.3%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Neural_Network.vcxproj -> C:\Users\Morawski\Desktop\SEMESTR_5\Programowanie\Laboratorium\Projekt\Neural_Network\Release\Neural_Network.exe

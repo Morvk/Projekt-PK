@@ -1,0 +1,13 @@
+﻿  FileHandling.cpp
+C:\Users\morvi\Downloads\Neural_Network-main\Neural_Network-main\src\FileHandling.cpp(86,27): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\morvi\Downloads\Neural_Network-main\Neural_Network-main\src\FileHandling.cpp(116,23): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  IUser.cpp
+  main.cpp
+  Network.cpp
+  Neuron.cpp
+  Synapsa.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 375 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Neural_Network.vcxproj -> C:\Users\morvi\Downloads\Neural_Network-main\Neural_Network-main\src\x64\Release\Neural_Network.exe
